@@ -15,10 +15,10 @@
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.  
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.  
 Ответ:  
-<img width="1546" height="784" alt="Screenshot_3" src="https://github.com/user-attachments/assets/e7ba12e5-5799-4a1b-b207-31bf003ac284" />  
+  
 Задание 4. Filebeat.  
   
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.  
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.  
 Ответ:  
-<img width="1783" height="900" alt="Screenshot_5" src="https://github.com/user-attachments/assets/cd382860-ee70-4780-b51a-3295e2569c84" />  
+   
